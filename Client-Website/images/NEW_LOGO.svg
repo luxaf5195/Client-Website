@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 566.93 557.4">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        font-family: Bauhaus93, 'Bauhaus 93';
+        font-size: 83.56px;
+        isolation: isolate;
+      }
+
+      .cls-3, .cls-2 {
+        fill: #f47920;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M360.07,6.86C184.97-32.07,29.95,100.12,29.95,268.5h179c0-50.84,42.38-91.77,93.72-89.4,45.85,2.1,83.07,39.32,85.17,85.17,2.36,51.36-38.57,93.72-89.4,93.72h0v179h0c168.39,0,300.57-155.01,261.64-330.12-22.14-99.6-100.38-177.86-200.01-200.01Z"/>
+  <text class="cls-3" transform="translate(85.1 335.95)"><tspan x="0" y="0">The</tspan></text>
+  <text class="cls-3" transform="translate(0 436.22)"><tspan x="0" y="0">Electric </tspan></text>
+  <text class="cls-3" transform="translate(57.02 536.51)"><tspan x="0" y="0">Fetus</tspan></text>
+  <path class="cls-2" d="M298.44,358.02h0c49.43,0,89.5-40.07,89.5-89.5s-40.07-89.5-89.5-89.5-89.5,40.07-89.5,89.5h89.5v89.5Z"/>
+</svg>
